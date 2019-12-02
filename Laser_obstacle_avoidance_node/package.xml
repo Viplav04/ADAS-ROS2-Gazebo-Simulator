@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>laser_obstacle_avoidance</name>
+  <version>0.5.0</version>
+  <description>Auto Brake Lidar</description>
+  <maintainer email="viplav.setia@gmail.com">Viplav Setia</maintainer>
+  <license>Apache License 2.0</license>
+  <author email="viplav.setia@gmail.com">Viplav Setia</author>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>rclcpp</depend>
+  <depend>sensor_msgs</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>
+
+
