@@ -33,7 +33,7 @@ Source gazebo:
 
 ```source /usr/share/gazebo/setup.sh```
 
-To run:
+To run gazebo:
 
 ```gazebo --verbose myworld.world```
 
