@@ -23,47 +23,48 @@ In 1st terminal
 
 Source ROS2 :
 
-source /opt/ros/crystal/setup.bash
+```source /opt/ros/crystal/setup.bash```
 
 Source gazebo:
 
-source /usr/share/gazebo/setup.sh
+```source /usr/share/gazebo/setup.sh```
 
 To run:
 
-gazebo --verbose myworld.world
+```gazebo --verbose myworld.world```
 
 In 2nd terminal, source ROS2 crystal and
 To build Lane_detection_node :
 
+```
 cd ~/Lane_detection_node
-
 colcon build
-
 source insall/local_setup.bash
+```
 
 To run : 
 
-ros2 run lane_assist lane_node
+```ros2 run lane_assist lane_node```
 
 
 In another terminal, source ROS2 crystal:
 To build laser_obstacle_avoidance :
 
-cd ~/laser_obstacle_avoidance
+```cd ~/laser_obstacle_avoidance
 
 colcon build
+```
 
 To run : 
 
-ros2 run laser_obstacle_avoidance obstacle_node
+```ros2 run laser_obstacle_avoidance obstacle_node```
 
 
 In another terminal : 
 
 source ROS2 crystal
 
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
+```ros2 run teleop_twist_keyboard teleop_twist_keyboard```
 
 
 Play around!!!
