@@ -51,7 +51,6 @@ In another terminal, source ROS2 crystal:
 To build laser_obstacle_avoidance :
 
 ```cd ~/laser_obstacle_avoidance
-
 colcon build
 ```
 
