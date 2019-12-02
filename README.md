@@ -10,7 +10,7 @@ This setup requires:
 
 
 
-You can drive around the robot in the simulator and have Lane Assist and Auto Brake when object is detected.
+You can drive around the robot in the simulator and have Lane Assist and Auto Brake when object is detected. It uses a Hough Transform algorithm which works only for straight lines.
 
 Steps to run the demo:
 
