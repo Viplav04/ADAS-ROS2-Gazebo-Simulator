@@ -8,7 +8,7 @@ This setup requires:
   2. Gazebo 9
   3. OpenCV
 
-/home/rosteam/Pictures/Screenshot from 2019-12-02 12-33-31.png
+
 
 You can drive around the robot in the simulator and have Lane Assist and Auto Brake when object is detected.
 
