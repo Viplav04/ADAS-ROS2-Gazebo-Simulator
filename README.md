@@ -2,7 +2,7 @@
 ADAS Application with ROS2 using Camera and LIDAR using Gazebo Simulator.
 
 
-This is an open source project using License Apache 2.0 to understand simple ADAS applications using ROS2 Crystal and Gazebo Simulator.
+This is an open source project using License Apache 2.0 to understand simple ADAS applications using ROS2 Crystal and Gazebo Simulator.You can drive around the robot in the simulator and have Lane Detection and Auto Brake when object is detected. It uses a Hough Transform algorithm which works only for straight lines.
 This setup requires:
   1. ROS2 crystal. Install (https://index.ros.org/doc/ros2/Installation/Crystal/Linux-Install-Debians/)
   2. Gazebo 9. Install (http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
@@ -11,7 +11,6 @@ This setup requires:
 ![alt text](https://github.com/Viplav04/ADAS_ROS2-OpenCV-Lane-Detection-Auto-Braking-with-LIDAR-Object-Detection-Gazebo-Teleop-Keyboard/blob/master/RO2_ADAS.png)
 
 
-You can drive around the robot in the simulator and have Lane Detection and Auto Brake when object is detected. It uses a Hough Transform algorithm which works only for straight lines.
 
 Steps to run the demo:
 
