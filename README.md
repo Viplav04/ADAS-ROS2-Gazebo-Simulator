@@ -16,11 +16,17 @@ Paste the model folders : my_robot, hokuyo and depth_camera in .gazebo/models fo
 
 
 In 1st terminal
+
 Source ROS2 :
+
 source /opt/ros/crystal/setup.bash
+
 Source gazebo:
+
 source /usr/share/gazebo/setup.sh
+
 To run:
+
 gazebo --verbose myworld.world
 
 In 2nd terminal, source ROS2 crystal and
