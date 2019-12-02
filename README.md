@@ -8,7 +8,7 @@ This setup requires:
   2. Gazebo 9
   3. OpenCV
 
-https://github.com/Viplav04/ADAS_ROS2-OpenCV-Lane-Detection-Auto-Braking-with-LIDAR-Object-Detection-Gazebo-Teleop-Keyboard/blob/master/RO2_ADAS.png
+![alt text](https://github.com/Viplav04/ADAS_ROS2-OpenCV-Lane-Detection-Auto-Braking-with-LIDAR-Object-Detection-Gazebo-Teleop-Keyboard/blob/master/RO2_ADAS.png)
 
 
 You can drive around the robot in the simulator and have Lane Assist and Auto Brake when object is detected. It uses a Hough Transform algorithm which works only for straight lines.
