@@ -18,7 +18,9 @@ Clone the repo:
 
 ```git clone https://github.com/Viplav04/ADAS_ROS2-OpenCV-Lane-Detection-Auto-Braking-with-LIDAR-Object-Detection-Gazebo-Teleop-Keyboard.git```
 
-Paste the model folders : my_robot, hokuyo and depth_camera in .gazebo/models folder. Be careful, these folder have been modified so change the names before pasting as they may over write original folders in models directory.
+Paste the model folders : my_robot, hokuyo and depth_camera in .gazebo/models folder. 
+
+Be careful, these folder have been modified so change the names before pasting as they may over write original folders in models directory.
 
 
 In 1st terminal
