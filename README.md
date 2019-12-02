@@ -4,9 +4,9 @@ ADAS Application with ROS2 using Camera and LIDAR using Gazebo Simulator.
 
 This is an open source project using License Apache 2.0 to understand simple ADAS applications using ROS2 Crystal and Gazebo Simulator.
 This setup requires:
-  1. ROS2 crystal
-  2. Gazebo 9
-  3. OpenCV
+  1. ROS2 crystal. Install (https://index.ros.org/doc/ros2/Installation/Crystal/Linux-Install-Debians/)
+  2. Gazebo 9. Install (http://gazebosim.org/tutorials?tut=install_ubuntu&cat=install)
+  3. OpenCV & cv_bridge. Install (https://www.learnopencv.com/install-opencv3-on-ubuntu/)
 
 ![alt text](https://github.com/Viplav04/ADAS_ROS2-OpenCV-Lane-Detection-Auto-Braking-with-LIDAR-Object-Detection-Gazebo-Teleop-Keyboard/blob/master/RO2_ADAS.png)
 
