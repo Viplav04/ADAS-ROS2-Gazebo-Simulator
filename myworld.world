@@ -146,6 +146,10 @@
       <uri>model://road_straight</uri>
       <pose>35.0 35.0 0 0 0 1.57</pose>
     </include>
+   <include>
+    <uri>model://my_robot</uri>
+    <pose>15 15 0 0 0 0</pose>
+    </include>
 
     <light name='sun' type='directional'>
       <cast_shadows>1</cast_shadows>
